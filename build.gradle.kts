@@ -1,5 +1,2 @@
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
-plugins {
-    id("com.android.application") version "8.9.1" apply false
-    id("org.jetbrains.kotlin.android") version "2.2.10" apply false
-}
+// Shared configuration, plugin versions and dependency versions live in the
+// `build-logic` submodule: https://github.com/FuckAPK/build-logic
